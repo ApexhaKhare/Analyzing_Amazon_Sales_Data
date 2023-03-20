@@ -35,4 +35,8 @@ Find key metrics and factors and show the meaningful relationships between attri
  
  
  
+ # Power BI Public Server Link -
+ https://app.powerbi.com/view?r=eyJrIjoiODQ0NmQ3ZjItYzZjMy00YmNmLWI5MmQtYjUxOTM2MTFiNGZjIiwidCI6Ijk5ZGVjZWQ3LWVkMDItNDY5Ny05MDFmLWZkMzc4ZThlYTFmZSJ9
+ 
+ 
  
