@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/122156209/226376503-6c069e0f-4c6a-4448-9a0f-f5f1bf966174.png)
 
 # Project Title - Analyzing_Amazon_Sales_Data
-### -This repository presents FIFA World Cup data analysis.
+### -This repository presents Amazon sales  data analysis.
 - With the help of this project we can see some useful insights and make decisions.
 
 # Problem Statement:
