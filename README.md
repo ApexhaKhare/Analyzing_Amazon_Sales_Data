@@ -1,6 +1,7 @@
 # Analyzing_Amazon_Sales_Data
 
 ![image](https://user-images.githubusercontent.com/122156209/226376503-6c069e0f-4c6a-4448-9a0f-f5f1bf966174.png)
+![image](https://user-images.githubusercontent.com/122156209/228746157-163579e0-ce34-44d7-980f-651a2a45d7b2.png)
 
 # Project Title - Analyzing_Amazon_Sales_Data
 ### -This repository presents Amazon sales  data analysis.
